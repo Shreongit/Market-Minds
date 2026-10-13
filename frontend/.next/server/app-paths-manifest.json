@@ -1,0 +1,8 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/stock/[ticker]/page": "app/stock/[ticker]/page.js",
+  "/exports/page": "app/exports/page.js",
+  "/page": "app/page.js",
+  "/analysis/[ticker]/page": "app/analysis/[ticker]/page.js",
+  "/markets/page": "app/markets/page.js"
+}

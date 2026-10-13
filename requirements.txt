@@ -1,0 +1,15 @@
+reflex>=0.4.0
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+scikit-learn
+plotly
+sqlalchemy
+pydantic>=2.0
+httpx
+reportlab
+openpyxl
+pytest
+python-dotenv
